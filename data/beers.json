@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Dreher Bak",
+        "abv": 6
+    },
+    {
+        "id": 2,
+        "name": "Edelweiss",
+        "abv": 5
+    },
+    {
+        "id": 3,
+        "name": "Mort Subite",
+        "abv": 4.5
+    },
+    {
+        "id": 4,
+        "name": "Strongbow Apple",
+        "abv": 4
+    },
+    {
+        "id": 5,
+        "name": "Maisels Weise",
+        "abv": 5
+    }
+]
